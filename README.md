@@ -3,7 +3,7 @@ Bu projeye ait tüm dosyalar burada saklanacaktır.
 
 
 ## Proje Çalışanları ve iletişim bilgileri
-  # Esra Demir  : 
+  <h3>Esra Demir  :</h3>
     <ul>
     <li>mail adresi</li>
     <li>facebook adresi</li>
