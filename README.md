@@ -6,12 +6,12 @@ Bu projeye ait tüm dosyalar burada saklanacaktır.
 
 
 
-<body>
+
 <div class="YK1">
 <h3>Esra Çivik  :</h3>
 <h3>
 <ul>
-    <li> <a href="mailto:       mail adresi</li>
+    <li> mail adresi</li>
     <li> <a href="https://www.facebook.com/esra.civik?fref=ts" target="_blank">facebook adresi
     </a></li>
     <li><a href="https://www.instagram.com/fnr_engineer/?hl=tr"  target="_blank">instagram adresi
