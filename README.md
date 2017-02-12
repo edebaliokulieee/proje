@@ -8,7 +8,7 @@ Bu projeye ait tüm dosyalar burada saklanacaktır.
 
 
 <div class="YK1">
-<h3>Esra Çivik  :</h3>
+<h3>Esra ÇİVİK  :</h3>
 <h3>
 <ul>
     <li> mail adresi</li>
@@ -21,7 +21,7 @@ Bu projeye ait tüm dosyalar burada saklanacaktır.
  </div>
 
  <div class="YK2">
-<h3>Sabri Gültekin :</h3>
+<h3>Sabri GÜLTEKİN :</h3>
 <h3>
 <ul >
     <li>mail adresi</li>
