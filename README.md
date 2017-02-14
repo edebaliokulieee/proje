@@ -24,7 +24,7 @@ Bu projeye ait tüm dosyalar burada saklanacaktır.
 <h3>Sabri GÜLTEKİN :</h3>
 <h3>
 <ul >
-    <li>mail adresi</li>
+    <li>mail adresi: gultekinsabrice@gmail.com</li>
     <li> <a href="https://www.facebook.com/gultekinsabrice?fref=ts" target="_blank">facebook adresi</a></li>
     <li><a href="https://www.instagram.com/gultekinsabrice/?hl=tr" target="_blank">instagram adresi</a></li>
     
