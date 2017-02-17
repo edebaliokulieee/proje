@@ -1,6 +1,8 @@
 # proje
 Bu projeye ait tüm dosyalar burada saklanacaktır.
 
+App inventor: http://ai2.appinventor.mit.edu/
+
 
 ## Proje Çalışanları ve iletişim bilgileri
 
