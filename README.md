@@ -13,7 +13,7 @@ App inventor: http://ai2.appinventor.mit.edu/
 <h3>Esra ÇİVİK  :</h3>
 <h3>
 <ul>
-    <li> mail adresi</li>
+    <li> mail adresi:esracivik7356@gmail.com</li>
     <li> <a href="https://www.facebook.com/esra.civik?fref=ts" target="_blank">facebook adresi
     </a></li>
     <li><a href="https://www.instagram.com/fnr_engineer/?hl=tr"  target="_blank">instagram adresi
@@ -39,7 +39,7 @@ App inventor: http://ai2.appinventor.mit.edu/
 <h3>Rabia YILDIRIM  :</h3>
 <h3>
 <ul >
-    <li>mail adresi</li>
+    <li>mail adresi:yildirimrabiace@gmail.com</li>
     <li><a href="https://www.facebook.com/rabia.yldr?fref=ts" target="_blank">facebook adresi </a></li>
     <li><a href="https://www.instagram.com/_yildirimce/?hl=tr" target="_blank">instagram adresi
     </a></li>
@@ -52,7 +52,7 @@ App inventor: http://ai2.appinventor.mit.edu/
 <h3>Fatmanur GÖMBECİ :</h3>
 <h3>
 <ul >
-    <li>mail adresi</li>
+    <li>mail adresi:fatmanurg.1997@gmail.com</li>
     </ul>
     </h3>   
  </div>
@@ -71,7 +71,7 @@ App inventor: http://ai2.appinventor.mit.edu/
 <h3>Buse Asena KOCA  :</h3>
 <h3>
 <ul >
-    <li>mail adresi</li>
+    <li>mail adresi:buseasenak@gmail.com</li>
     <li><a href="https://www.facebook.com/Buseasenak?fref=ts" target="_blank">facebook adresi </a></li>
     <li><a href="https://www.instagram.com/buseasenak/?hl=tr" target="_blank"> instagram adresi </a></li>
     </ul>
@@ -82,7 +82,7 @@ App inventor: http://ai2.appinventor.mit.edu/
 <h3>Büşra Nur GÜNER  :</h3>
 <h3>
 <ul >
-    <li>mail adresi</li>
+    <li>mail adresi:busra.nur.guner@hotmail.com</li>
     <li><a href="https://www.facebook.com/BhesRaa?fref=ts" target="_blank">facebook adresi </a> </li>
     <li><a href="https://www.instagram.com/busra.guner/?hl=tr" target="_blank">instagram adresi </a></li>
     </ul>
@@ -93,7 +93,7 @@ App inventor: http://ai2.appinventor.mit.edu/
 <h3>Mümin TUNCER :</h3>
 <h3>
 <ul >
-    <li>mail adresi</li>
+    <li>mail adresi:mntr1905@gmail.com</li>
     <li><a href="https://www.facebook.com/09tuncer" target="_blank">facebook adresi </a></li>
     <li><a href="https://www.instagram.com/mntr1905/?hl=tr" target="_blank" > instagram adresi  </a></li>
     </ul>
@@ -104,7 +104,7 @@ App inventor: http://ai2.appinventor.mit.edu/
 <h3>Yasin MUMCU  :</h3>
 <h3>
 <ul >
-    <li>mail adresi</li>
+    <li>mail adresi:yasinmumcu18@gmail.com</li>
     <li><a href="https://www.facebook.com/yasin.mumcu.7?fref=ts" target="_blank">facebook adresi </a></li>
     <li><a href="https://www.instagram.com/yasinmumcu/?hl=tr"  target="_blank">instagram adresi </a></li>
     </ul>
@@ -115,7 +115,7 @@ App inventor: http://ai2.appinventor.mit.edu/
 <h3>Hüseyin Mert YAVAŞ :</h3>
 <h3>
 <ul >
-    <li>mail adresi</li>
+    <li>mail adresi:hmertyavas@hotmail.com</li>
     <li><a href="https://www.facebook.com/rabia.yldr?fref=ts" target="_blank">facebook adresi </a></li>
     <li><a href="https://www.instagram.com/h.mertyavas/?hl=tr" target="_blank">instagram adresi</a></li>
     </ul>
@@ -126,7 +126,7 @@ App inventor: http://ai2.appinventor.mit.edu/
 <h3>Burak BAYAR:</h3>
 <h3>
 <ul >
-    <li>mail adresi</li>
+    <li>mail adresi:burakbayar_1996@hotmail.com</li>
     <li><a href="https://www.facebook.com/mrbrkbyr?fref=ts" target="_blank">facebook adresi </a></li>
     <li>instagram adresi</li>
     </ul>
@@ -137,7 +137,7 @@ App inventor: http://ai2.appinventor.mit.edu/
 <h3>Turhan ÇEVİK  :</h3>
 <h3>
 <ul >
-    <li>mail adresi</li>
+    <li>mail adresi:turhancevik26@gmail.com</li>
     <li><a href="https://www.facebook.com/rabia.yldr?fref=ts" target="_blank">facebook adresi </a></li>
     <li><a href="https://www.instagram.com/tarzan3126/?hl=tr" target="_blank">instagram adresi </a></li>
     </ul>
@@ -148,7 +148,7 @@ App inventor: http://ai2.appinventor.mit.edu/
 <h3>Hacer KOZLU :</h3>
 <h3>
 <ul >
-    <li>mail adresi</li>
+    <li>mail adresi:</li>
     <li><a href="https://www.facebook.com/kz.hcr?fref=ts" target="_blank">facebook adresi </a></li>
     <li><a href ="https://www.instagram.com/hacerkozlu/?hl=tr" target="_blank">instagram adresi</a></li>
     
@@ -160,7 +160,7 @@ App inventor: http://ai2.appinventor.mit.edu/
 <h3>Mahdi MUHİBBİ  :</h3>
 <h3>
 <ul >
-    <li>mail adresi</li>
+    <li>mail adresi:muhibbi.graphic@gmail.com</li>
     <li><a href="https://www.facebook.com/erasayko?fref=ts" target="_blank">facebook adresi </a></li>
     <li><a href ="https://www.instagram.com/mahdi.muhibbi/?hl=tr" target="_blank">instagram adresi</a></li>
     </ul>
